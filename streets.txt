@@ -1,0 +1,5 @@
+ streets:
+name: E, Point: startX: 0, startY: 150, streetLength: 690, streetHeight: 40, orientation: EAST, car_probability: 0.5, max_speed: 9
+name: W, Point: startX: 0, startY: 230, streetLength: 690, streetHeight: 40, orientation: WEST, car_probability: 0.04, max_speed: 10
+name: S, Point: startX: 150, startY: 0, streetLength: 40, streetHeight: 460, orientation: SOUTH, car_probability: 0.02, max_speed: 5
+name: N, Point: startX: 230, startY: 0, streetLength: 40, streetHeight: 460, orientation: NORTH, car_probability: 0.01, max_speed: 5

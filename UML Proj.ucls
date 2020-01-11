@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="pt.iul.ista.poo.gui.UserInterfaceWindow.ButtonWatcher" 
+    project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iul/ista/poo/gui/UserInterfaceWindow.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="110" x="91" y="-87"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="pt.iul.ista.poo.gui.UserInterfaceWindow.MainWindow" 
+    project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iul/ista/poo/gui/UserInterfaceWindow.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="178" x="227" y="-88"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="pt.iul.ista.poo.gui.UserInterfaceWindow" 
+    project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iul/ista/poo/gui/UserInterfaceWindow.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="295" width="209" x="227" y="-452"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="pt.iul.ista.poo.gui.UserInterfaceWindow.ButtonPanel" 
+    project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iul/ista/poo/gui/UserInterfaceWindow.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="93" x="422" y="-86"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" language="java" name="pt.iul.ista.poo.gui.ShapeComponent" 
+    project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iul/ista/poo/gui/ShapeComponent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="57" width="125" x="526" y="-183"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="6" language="java" name="pt.iul.ista.poo.gui.ImageComponent" 
+    project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iul/ista/poo/gui/ImageComponent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="128" x="853" y="-326"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="7" language="java" name="pt.iul.ista.poo.gui.GraphicsComponent" 
+    project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iul/ista/poo/gui/GraphicsComponent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="54" width="140" x="535" y="-273"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="pt.iscte.poo.trafficsim.TrafficSim" 
+    project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iscte/poo/trafficsim/TrafficSim.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="77" width="180" x="721" y="-219"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="pt.iscte.poo.trafficsim.Main" project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iscte/poo/trafficsim/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="54" width="113" x="662" y="-390"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="pt.iscte.poo.trafficsim.Car" project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iscte/poo/trafficsim/Car.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="203" width="176" x="893" y="-72"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="pt.iscte.poo.trafficsim.Street" project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iscte/poo/trafficsim/Street.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="259" width="211" x="527" y="-38"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="pt.iscte.poo.trafficsim.SlowCar" project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iscte/poo/trafficsim/SlowCar.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="54" width="157" x="996" y="198"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="pt.iscte.poo.trafficsim.NormalCar" 
+    project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iscte/poo/trafficsim/NormalCar.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="57" width="165" x="877" y="264"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="pt.iscte.poo.trafficsim.FastCar" project="Tiago Almeida n69362 Joao Cunha n68649" 
+    file="/Tiago Almeida n69362 Joao Cunha n68649/src/pt/iscte/poo/trafficsim/FastCar.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="58" width="153" x="757" y="189"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="15">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="16">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="17" name="traffic"/>      
+      <multiplicity id="18" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <nesting id="20">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <realization id="21">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <association id="22">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="23" name="streets"/>      
+      <multiplicity id="24" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="26">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="27" name="images"/>      
+      <multiplicity id="28" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="29">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="30" name="car"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="32">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="33" name="cars"/>      
+      <multiplicity id="34" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="36" name="cars"/>      
+      <multiplicity id="37" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="38">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="40">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="41" name="streets"/>      
+      <multiplicity id="42" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="44" name="INSTANCE"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="47" name="shapes"/>      
+      <multiplicity id="48" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="49">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="51">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="52" name="street"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="54">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
